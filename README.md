@@ -18,3 +18,6 @@ The Assignment involves installing SageMath from source in your OS according to 
 
 - [https://doc.sagemath.org/html/en/installation/source.html](https://doc.sagemath.org/html/en/installation/source.html)
 
+- Note that it is significantly easier to install sagemath from source on Mac OS X and Linux than in Windows, although by just following the suggestions in provided 100 or so screenshot guided steps, you can do all the other Assignments and install other packages as you need without installing sagemath from source.
+- Also, you may get to learn some other basics about using BASH, Mac App Store, etc. in a secure and careful manner.
+- My steps are merely suggestions. If you know what you are doing then you know there are many ways to be methodically vigilant with your machine. 
